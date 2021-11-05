@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T6", "T6\T6.csproj", "{03CF6F65-DD60-4015-B5A7-2E2F64D11982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T6_varB", "T6_varB\T6_varB.csproj", "{BEED8B57-FAA9-4875-BF70-1FA92ED1A609}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03CF6F65-DD60-4015-B5A7-2E2F64D11982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03CF6F65-DD60-4015-B5A7-2E2F64D11982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03CF6F65-DD60-4015-B5A7-2E2F64D11982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03CF6F65-DD60-4015-B5A7-2E2F64D11982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEED8B57-FAA9-4875-BF70-1FA92ED1A609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEED8B57-FAA9-4875-BF70-1FA92ED1A609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEED8B57-FAA9-4875-BF70-1FA92ED1A609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEED8B57-FAA9-4875-BF70-1FA92ED1A609}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E759376F-0A7F-41C7-8DF5-5F28A93EF613}
+	EndGlobalSection
+EndGlobal
